@@ -3,5 +3,6 @@ using namespace std;
 
 int main() {
     cout << "Hello SCM Lab";
+cout << "Me Zainab";
     return 0;
 }
